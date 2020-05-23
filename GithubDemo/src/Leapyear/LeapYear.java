@@ -2,7 +2,7 @@ package Leapyear;
 
 public class LeapYear {
 
-
+/*Leap Year*/
 			    public static void main(String[] args) {
 
 		        int year = 2021;
