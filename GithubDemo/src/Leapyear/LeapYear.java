@@ -2,7 +2,7 @@ package Leapyear;
 
 public class LeapYear {
 
-/*Leap Year*/
+/*Leap Year -  is a calendar year that contains an additional day (or, in the case of a lunisolar calendar, a month) added to keep the calendar year synchronized with the astronomical year or seasonal year.*/
 			    public static void main(String[] args) {
 
 		        int year = 2021;
