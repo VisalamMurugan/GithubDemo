@@ -4,7 +4,7 @@
 public class HelloWorld
 {
 	public static void main(String[] args) {
-		System.out.println("Welocme to Github patch1");
+		System.out.println("Welocme to Visalam patch1");
 		
 	}
 }
